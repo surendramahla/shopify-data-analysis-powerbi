@@ -37,7 +37,6 @@ The dashboard provides key business insights into **sales performance, customer 
 
 ## 📷 Dashboard Preview
 
-*(Add screenshots here after uploading images)*
 <img width="1338" height="789" alt="image" src="https://github.com/user-attachments/assets/465740c5-d98d-44de-81ad-318a5751fda2" />
 
 ---
