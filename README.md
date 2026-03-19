@@ -83,8 +83,8 @@ Shopify-Dashboard/
 
 **Surendra Mahla**
 
-* LinkedIn: *[(add your link](https://www.linkedin.com/in/surendramahla/))*
-* GitHub: *[(add your link)](https://github.com/surendramahla)*
+* LinkedIn: *[(link](https://www.linkedin.com/in/surendramahla/))*
+* GitHub: *[(link)](https://github.com/surendramahla)*
 
 ---
 
