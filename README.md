@@ -5,7 +5,6 @@
 This project presents an **interactive Power BI dashboard** built using Shopify sales data.
 The dashboard provides key business insights into **sales performance, customer behavior, and product trends** to support data-driven decision-making.
 
-<img width="1561" height="916" alt="image" src="https://github.com/user-attachments/assets/20ca6df3-b5e8-4584-b4ff-e58104387ba9" />
 
 
 ---
